@@ -13,4 +13,5 @@ and for non GUI
 ```
 $ jmeter -n -t starwarsapi.jmx
 ```
+This will load test swapi.dev with 1000 concurrent virtual users and 60 seconds of ramp time
 * Please give it a "star" if it helped you.
