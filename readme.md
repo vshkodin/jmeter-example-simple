@@ -2,8 +2,8 @@
 #### Download Jmeter https://jmeter.apache.org/download_jmeter.cgi
 #### Clone repo:
 ```
-$ git clone 
-$ cd 
+$ git clone https://github.com/vsshk/jmeter-example-simple.git
+$ cd jmeter-example-simple
 ```
 Run for gui:
 ```
